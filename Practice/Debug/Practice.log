@@ -1,0 +1,13 @@
+﻿  Practice.cpp
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(44,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(291,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(503,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(712,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(924,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(1133,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(1342,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(1554,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(1763,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(1972,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AQMER\source\repos\Practice\Practice\Practice.cpp(2181,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Practice.vcxproj -> C:\Users\AQMER\source\repos\Practice\Debug\Practice.exe
